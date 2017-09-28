@@ -1,0 +1,25 @@
+{
+  "name": "liri_hw_app",
+  "version": "1.0.0",
+  "description": "app for liri hw by jtung",
+  "main": "liri.js",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.82.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtung23/-liri-node-app.git"
+  },
+  "author": "jt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtung23/-liri-node-app/issues"
+  },
+  "homepage": "https://github.com/jtung23/-liri-node-app#readme"
+}
